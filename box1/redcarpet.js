@@ -1,0 +1,7 @@
+fill('red carpet')
+pig = stamp('pig3',272,239)
+dog = stamp('dog4',233,507)
+turtle = stamp('turtle2',304,838)
+tiger = stamp('tiger4',536,550)
+shrimp = stamp('shrimp',630,882)
+text('Red Carpet!',250,80,'pink',90)
